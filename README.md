@@ -1,14 +1,14 @@
-<!-- Elegant GitHub README Header with Pastel Gradient -->
-<h1 align="center" style="font-family: 'Georgia', serif; color: #FFAFCC;">👋 Hi, I'm Harlee Ramos</h1>
-<h3 align="center" style="font-family: 'Georgia', serif; color: #CBAACB;">A passionate data, machine learning, and robotics enthusiast from Panama 🇵🇦</h3>
+<!-- 👑 Pastel Profile for Harlee Ramos -->
+<h1 align="center" style="font-family:'Georgia', serif; color:#FFAFCC;">Hi 👋, I'm Harlee Ramos</h1>
+<h3 align="center" style="font-family:'Georgia', serif; color:#CBAACB;">A passionate data, machine learning, and robotics enthusiast from Panama 🇵🇦</h3>
 
-<p align="center" style="color: #8FCACA; font-family: 'Georgia', serif;">
+<p align="center" style="color:#8FCACA; font-family:'Georgia', serif;">
 🔭 Currently building: <strong>Nova Robot & Data API Projects</strong><br>
 🌱 Learning: <strong>FastAPI, SQL optimization, embedded systems, and machine learning</strong><br>
 📊 Passionate about: <strong>data analysis, statistical modeling, and visual storytelling</strong><br>
 🤖 Interests: <strong>robotics, AI integration, and smart systems</strong><br>
 🎨 Also love: <strong>creative design using Adobe Illustrator & Photoshop</strong><br>
-📫 Connect with me: <a href="https://www.linkedin.com/in/harlee-ramos" style="color:#FFCBF2;">LinkedIn</a><br>
+📫 Connect: <a href="https://www.linkedin.com/in/harlee-ramos" style="color:#FFCBF2;">LinkedIn</a><br>
 ⚡ Fun Fact: <em>I can control a robot with my phone and Python code!</em><br>
 🧪 I use: <strong>R + RStudio for stats and visualization</strong>
 </p>
@@ -36,13 +36,14 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harleeliz&show_icons=true&theme=graywhite&title_color=#F3B0C3&icon_color=#FFAFCC&text_color=#8FCACA" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harleeliz&theme=soft-green" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harleeliz&show_icons=true&hide_border=false&title_color=F3B0C3&text_color=8FCACA&icon_color=FFC5BF&bg_color=FEE1E8,FFFFFF" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harleeliz&hide_border=false&stroke=F6EAC2&ring=FFAFCC&fire=FFC5BF&currStreakLabel=F3B0C3&background=FFFFFF&sideLabels=8FCACA&dates=97C1A9" />
 </p>
 
 ---
 
 ### 🏆 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleeliz&layout=compact&theme=graywhite&title_color=#ABDEE6&text_color=#8FCACA" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleeliz&layout=compact&hide_border=false&title_color=ABDEE6&text_color=8FCACA&bg_color=FFFFFF,FFFBF5" />
 </p>
