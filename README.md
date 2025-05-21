@@ -1,17 +1,37 @@
+<h1 align="center" style="font-family:'Georgia', serif; color:#FFAFCC;">
+  👋 Hi, I’m Harlee Ramos
+</h1>
+<h3 align="center" style="font-family:'Georgia', serif; color:#CBAACB;">
+  A passionate data, machine learning, and robotics enthusiast from Panama
+</h3>
 
-<h1 align="center" style="font-family:'Georgia', serif; color:#FFAFCC;">Hi 👋, I'm Harlee Ramos</h1>
-<h3 align="center" style="font-family:'Georgia', serif; color:#CBAACB;">A passionate data, machine learning, and robotics enthusiast from Panama 🇵🇦</h3>
+<div style="color:#8FCACA; font-family:'Georgia', serif; line-height:1.5;">
+  <ul style="list-style:none; padding:0; margin:1em 0;">
+    <li><strong>Currently building:</strong> Nova Robot &amp; Data API projects</li>
+    <li><strong>Learning:</strong> FastAPI, SQL optimization, embedded systems, ML, Azure Data Factory &amp; Power BI, AI/BI pipelines</li>
+    <li><strong>Passionate about:</strong> data analysis, statistical modeling, visual storytelling</li>
+    <li><strong>Interests:</strong> robotics, AI integration, smart systems</li>
+    <li><strong>Creative outlet:</strong> Adobe Illustrator &amp; Photoshop</li>
+    <li><strong>Fun fact:</strong> I can control a robot with my phone and Python code!</li>
+    <li><strong>Stats tools:</strong> R &amp; RStudio for visualization</li>
+  </ul>
 
-<p align="center" style="color:#8FCACA; font-family:'Georgia', serif;">
-🔭 Currently building: <strong>Nova Robot & Data API Projects</strong><br>
-🌱 Learning: <strong>FastAPI, SQL optimization, embedded systems, and machine learning</strong><br>
-📊 Passionate about: <strong>data analysis, statistical modeling, and visual storytelling</strong><br>
-🤖 Interests: <strong>robotics, AI integration, and smart systems</strong><br>
-🎨 Also love: <strong>creative design using Adobe Illustrator & Photoshop</strong><br>
-📫 Connect: <a href="https://www.linkedin.com/in/harlee-ramos" style="color:#FFCBF2;">LinkedIn</a><br>
-⚡ Fun Fact: <em>I can control a robot with my phone and Python code!</em><br>
-🧪 I use: <strong>R + RStudio for stats and visualization</strong>
-</p>
+  <p>
+    🎓 <strong>M.S. Computational Decision Science &amp; Operations Research</strong>, Illinois Institute of Technology<br>
+    🎓 <strong>B.S. Industrial Engineering</strong>, Technological University of Panama
+  </p>
+
+  <h4 style="margin-top:1em;">I’m looking to collaborate on:</h4>
+  <ul style="margin-top:0.5em;">
+    <li>Data‑driven visualization dashboards</li>
+    <li>Robotics &amp; embedded firmware (Arduino / PlatformIO)</li>
+    <li>Code examples for optimization and ML</li>
+  </ul>
+
+  <p style="margin-top:1em;">
+    📫 Connect on <a href="https://www.linkedin.com/in/harlee-ramos" style="color:#FFCBF2;">LinkedIn</a>
+  </p>
+</div>
 
 ---
 
