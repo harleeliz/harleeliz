@@ -8,6 +8,7 @@
 - 🎨 I also enjoy: **creative design with Adobe Illustrator and Photoshop**
 - 📫 How to reach me: **[https://www.linkedin.com/in/harlee-ramos](https://www.linkedin.com/in/harlee-ramos)**
 - ⚡ Fun fact: *I can control a robot using only my phone and Python code!*
+- 🧪 I also use: **R and RStudio for statistical modeling and visualization**
 
 ---
 
@@ -17,6 +18,8 @@
   <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" />
   <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite" />
+  <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=r" />
+  <img src="https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio" />
   <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino" />
