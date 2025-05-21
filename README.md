@@ -1,4 +1,4 @@
-<!-- 👑 Pastel Profile for Harlee Ramos -->
+
 <h1 align="center" style="font-family:'Georgia', serif; color:#FFAFCC;">Hi 👋, I'm Harlee Ramos</h1>
 <h3 align="center" style="font-family:'Georgia', serif; color:#CBAACB;">A passionate data, machine learning, and robotics enthusiast from Panama 🇵🇦</h3>
 
