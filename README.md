@@ -35,7 +35,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%23FFB5E8?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-%23FFCBC1?style=for-the-badge&logo=java&logoColor=black" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harleeliz&show_icons=true&hide_border=false&title_color=F3B0C3&text_color=8FCACA&icon_color=FFC5BF&bg_color=FEE1E8,FFFFFF" />
   <br/>
