@@ -7,7 +7,7 @@
 
 <div style="color:#8FCACA; font-family:'Georgia', serif; line-height:1.5;">
   <ul style="list-style:none; padding:0; margin:1em 0;">
-    <li><strong>Currently building:</strong> Nova Robot &amp; Data API projects</li>
+    <li><strong>Currently building:</strong> AI and ML projects stay tunned</li>
     <li><strong>Learning:</strong> FastAPI, SQL optimization, embedded systems, ML, Azure Data Factory &amp; Power BI, AI/BI pipelines</li>
     <li><strong>Passionate about:</strong> data analysis, statistical modeling, visual storytelling</li>
     <li><strong>Interests:</strong> robotics, AI integration, smart systems</li>
