@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/harlee-ramos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23C6DBDA?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://youtube.com/@@harleeliz" target="_blank">
+  <a href="https://www.youtube.com/@harleeliz" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FFCBC1?style=for-the-badge&logo=youtube&logoColor=black" />
   </a>
   <a href="mailto:harleeliz6@gmx.com">
